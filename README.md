@@ -90,9 +90,3 @@ Este método garante uma **solução ótima**.
 Este projeto é de uso educacional e livre para modificações e melhorias.
 
 ---
-
-## Contribuição
-
-Sinta-se à vontade para sugerir melhorias, abrir *issues* ou enviar *pull requests*!
-
----
